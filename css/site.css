@@ -1,0 +1,23 @@
+#links {
+    list-style-type: none;
+}
+
+.first-letter {
+    color: red;
+}
+
+body {
+    margin-top: 5%;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
